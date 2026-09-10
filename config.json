@@ -1,0 +1,18 @@
+[
+    {
+      "id": "kickr-core-2-wahoo",
+      "name": "KICKR CORE 2",
+      "url": "https://www.wahoofitness.com/devices/indoor-cycling/bike-trainers/kickr-core-2-zwift-cog-and-click-buy",
+      "target_price": 409.99,
+      "strategy": "json-ld",
+      "selector": null
+    },
+    {
+      "id": "kickr-core-2-zwift",
+      "name": "KICKR CORE 2",
+      "url": "https://us.zwift.com/products/wahoo-kickr-core-2",
+      "target_price": 409.99,
+      "strategy": "json-ld",
+      "selector": null
+    }
+  ]
