@@ -1,10 +1,10 @@
 {
   "kickr-core-2-wahoo": {
     "last_price": 549.99,
-    "notified": true
+    "notified": false
   },
   "kickr-core-2-zwift": {
     "last_price": 549.99,
-    "notified": true
+    "notified": false
   }
 }
